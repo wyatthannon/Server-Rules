@@ -1,0 +1,243 @@
+-Use Y to bring up chat.
+-Type @ and your message to talk directly to the admins and no one else (Only use this to report rule breakers or if you need legitimate help, please.)
+-Type /advert and then your message to advertise things such as raids and whatnot. You also need to advertise anything that will involve someone getting hurt/killed.
+-When talking about a specific rule, admins may say "rule 7b" or something like that, that is rule b in "building rules". You get the point.
+
+Here are the main rules you need to know about:
+(Admin decision is final, do not argue)
+
+1: RDM (Randomly killing people without a reason).
+
+a) You must not kill somebody without a valid Roleplay reason. Some examples include but are not limited to: 
+
+-They're annoying you and you've warned them at least 3 times using /advert.
+-They're attacking you.
+-An officer is trying to arrest you (For a reason or not).
+-You're raiding a base. You can kill anyone in the base.
+
+2: NLR (New Life Rule).
+
+a) When you are killed, you cannot return to the area you were just killed at for at least 3 minutes. Also, when you die, you're not supposed to "remember" who killed you. Example: Someone is raiding your base. They kill you during the raid. You cannot return to your base for at least 3 minutes and you cannot walk up to them and kill them randomly because "that's the guy that raided me and killed me."
+
+3: Prop abuse.
+
+a) Prop block: This is using a prop to block an area/building with no fading door or keypad. The only exception is when you block alternate enterences to your base (see rule 7i) 
+b) Prop climb: This is climbing on props to reach an otherwise impossible to reach area (e.g. a rooftop) (There is an exception, see rule 7j)
+c) Prop spam: This is self explanitory. Don't do it k?
+d) Prop kill: NEVER use a prop to kill somebody. Prop killing and spam will result in a perm ban, don't do it kiddos. 
+
+4: RDA (Randomly arresting someone as a cop).
+
+a) Don't go around as a police officer and randomly arrest someone. You have to have a valid role play reason to arrest someone, such as selling illegal drugs.
+
+5: FailRP (Failing to Roleplay).
+
+a) This gamemode is a semi serious Roleplaying gamemode, so it's based off of real life to an extent. This means that if someone has you at gunpoint, you are allowed to draw your weapon and fight them. However, in a kidnapping situation you may not draw you weapon unless the kidnapper has his back turned and is distracted. So basically, do what you would in real life to an extent.
+b) FailRP also extends to police officers and their 'arrest baton'. If somebody has a gun and is shooting you, you can't charge them with the baton and arrest them. Do what a police officer would do in real life and return fire, or back off and make them wanted using "/wanted playername reason".
+
+6: Fading door abuse
+
+a) Do not use your bound key to open a fading door instead of the keypad/button. 
+b) You can't use buttons to open/close a fading door in a second. Make sure to keep the fading door open for 5 seconds (see building rules)
+
+7: Building rules
+a) You may only build in the streets if you are a hobo, and you're making a little setup to beg for money OR if you're the Mayor/Police making checkpoints (This can only be done with the Mayor's permission)
+b) You may only have 2 fading doors at the enterence of you're base, you may have an additional fading door inside of the base to protect your valuables. 
+c) You may not have any bases that require a player to crouch/jump to get inside. 
+d) You may not have a one way seeing/shooting base, this is a base where you can see/shoot the raiders but they cannot do the same.
+e) Every fading door must have at least 2 keypads/buttons on either side to open them. A minimum of 5 seconds must be set to any keypad.
+f) There must be a space big enough for at least 2 people inbetween fading doors. You must also make your fading doors a metre away from and doors, this way you don't run the risk of door blocking (This is when your fading door blocks the door, and closes before a player can lockpick the door)
+g) You may have a building sign to protect your base from raids while you build. However you may NOT have a building sign with raidables inside your base (e.g. printers, guns etc...)
+h) You may not no collide a prop so players can walk through it, even if it's transparent. This is unrealistic.
+i) You are allowed to block off enterences to your base, however you must have at least 1 enterence that isn't propblocked.
+j) You can make little prop ramps to reach areas inside your base, like a catwalk or a second floor that you built. If you're unsure about it, call an admin to double check.
+
+8: Raiding rules
+a) If you die while you raid a base, you cannot rejoin the raid.
+b) If your base is being raided and you die during the raid, you can only return to defend it again 5 minutes later (NOT 3 minutes!!!) (This rule doesn't reply to police officers concerning PD raids)
+c) If a police officer dies while the PD is being raided, you absolutely CANNOT return to the PD to get the raiders, you must wait the 3 minutes of NLR, then you can return to kill the raiders. 
+d) If the PD is being raided, you cannot baton rush the raiders inside. (See FailRP)
+
+9: Cooldowns
+a) Mugging: You can only mug the same person once every 3 minutes.
+b) Kidnapping: After the victim has been released/ killed, you have to wait 5 minutes before kidnapping the same person.
+c) Raiding: If you're raiding and get killed, you cannot come back and raid the same person for 15 minutes. Also, if you don't die and suceed, same thing. (See rule 8a)
+
+10: Metagame 
+This is basically using out of character information to Roleplay. 
+a) Don't use the "/ooc, or, //" chat to say something in Roleplay (e.g. "/ooc hey can I buy a gun please?")
+b) Don't use the exuse "I heard money printers/drugs" to warrant somebody as police. Remember, that ticking/bubbling noise could be anything if you're Roleplaying properly.
+c) Don't use information like the kill logs, or the adverts about raids/mugs/kidnaps to take action on somebody. Those adverts are all OOC and can't be used in Roleplay (e.g. a policeman making somebody wanted because he saw "raid" in advert, and then he saw somebody die in the kill feed)
+
+11: Demoting
+a) You can only demote somebody if there is no staff online. Or, if you are demoting in Roleplay (e.g. a leader demoting his members for disobedience, or a mayor demoting his cops for disobedience)
+
+
+12: Job Rules & Descriptions 
+
+This is how you tell if your job can raid, mug, print, and base:
+Raid [ ] Mug [ ] Print [ ] Base [ ]
+Remember, if it says your class can base, it does not mean it can do so with all the jobs.
+
+a) Citizen: 
+This is what you start as, you don't really do anything. Learn some sweet skills. Chicks only want guys with sweet skills. 
+Raid [ ] Mug [ ] Print [X] Base [X]
+a1) You may set a custom job using the "/job" command, however keep it sensible. 
+a2) You can only base with other citizens, nobody else. 
+
+b) Mayor: 
+You're the mayor! Congratulations! You can be corrupt, you can be merciful, but remember, MAYOR'S RULES DO NOT OVERRIDE SERVER RULES. As the mayor, you can use the F1 menu to set laws and whatnot. If you die, you become a citizen again. You cannot have any weapons higher than a pistol. 
+Raid [ ] Mug [ ] Print [ ] Base [ ]
+b1) You can only kill somebody in self defence, you can't kill criminals!
+b2) You must never do the police's jobs for them, this includes raids and dealing with criminals. You can make people wanted if they murder police officers, that's all.
+b3) If the PD is under attack and you're inside, you may defend it.
+b4) You can only own a pistol for self defence, nothing higher.
+
+c) Hobo: 
+You are the lowest member of society. People laugh at you. You can throw fecal matter at people. They can kill you for this, though. You can build in the streets, but only a small little abode. 
+Raid [ ] Mug [ ] Print [ ] Base [ ]
+
+d) Pro Thief: 
+You're a thief but with better stuff! You can steal things from people, you can raid bases, oya. 
+Raid [X] Mug [X] Print [X] Base [X]
+d1) You can only base with other thieves, do not base with the mafia, bloods, cripz etc...
+d2) Make sure to use your class for raiding/robbing, you're a thief, please do not sit in a base all day money printing. Other people might want to be a thief to raid/rob.
+
+e) Black Market Dealer: 
+You sell pistols and lockpicks to people. Shady. Can only base to make shops. 
+Raid [ ] Mug [ ] Print [X] Base [X]
+e1) You're allowed money printers inside your shop, your guard is to. Nobody else.
+e2) You can't base with anybody other than your guard(s). 
+e3) You can only have a base if it doubles as your shop!
+e4) Self supply rule is especially important with this class, you are NOT allowed to spawn any weapon(s)/lockpicks for yourself. If caught you will be warned. If caught again, you will be banned from this job.
+e5) Don't charge massively high amounts for your goods, be reasonable. 
+e6) You are not allowed to sell exclusively to a specific person/group of people. Sell to everyone. Although you can deny service to somebody as long as you have a valid reason (e.g. they broke your shop rules).  
+
+f) Police Officer: 
+"I'm a cop. I'm an officer-of-the-law. I enforce the law and laws and codes and statutes and other things that require the enforcement of a police department employee." This is, in fact, your very job. Arrest people for selling drugs to orphans, arrest people for selling illegal weapons, arrest people for stealing the mayor's daughter. (That's bad.) 
+Raid [X] Mug [ ] Print [ ] Base [ ]
+f1) You may only raid in certain situations. If you and the other police know that somebody is hiding something illegal, or somebody inside of a base is wanted, THEN you can use the "/warrant name reason" command to legally search the base for whatever/whoever you're looking for. 
+f2) If you search a base and see illegal items, like printers or illegal guns, destroy them. However the guns can be placed in the PD for police use. (Money printers 100% MUST be destroyed not taken). 
+f3) You are absolutely NOT allowed money printers, or a base, or a house, your base is the PD. 
+f4) You can't search somebody just becuase you think they might have illegal items. You need some kind of knowledge, or a tip off from civilians to have probable cause. 
+
+g) S.W.A.T. : 
+You are basically a police officer, except you're really not. All you do is assist officers in search warrants. 
+Raid [X] Mug [ ] Print [ ] Base [ ]
+g1) You may only raid in certain situations. If you and the other police know that somebody is hiding something illegal, or somebody inside of a base is wanted, THEN you can use the "/warrant name reason" command to legally search the base for whatever/whoever you're looking for. 
+g2) If you search a base and see illegal items, like printers or illegal guns, destroy them. However the guns can be placed in the PD for police use. (Money printers 100% MUST be destroyed not taken). 
+g3) You are absolutely NOT allowed money printers, or a base, or a house, your base is the PD. 
+g4) You can't search somebody just becuase you think they might have illegal items. You need some kind of knowledge, or a tip off from civilians to have probable cause. 
+
+h) S.W.A.T. Sniper: 
+Same as above, except you kill people from afar. 
+Raid [X] Mug [ ] Print [ ] Base [ ]
+h1) You may only raid in certain situations. If you and the other police know that somebody is hiding something illegal, or somebody inside of a base is wanted, THEN you can use the "/warrant name reason" command to legally search the base for whatever/whoever you're looking for. 
+h2) If you search a base and see illegal items, like printers or illegal guns, destroy them. However the guns can be placed in the PD for police use. (Money printers 100% MUST be destroyed not taken). 
+h3) You are absolutely NOT allowed money printers, or a base, or a house, your base is the PD. 
+h4) You can't search somebody just becuase you think they might have illegal items. You need some kind of knowledge, or a tip off from civilians to have probable cause. 
+
+i) Thief: 
+Same as the pro-thief, except you don't have as many fancy things. 
+Raid [X] Mug [X] Print [X] Base [X]
+i1) You can only base with other thieves, do not base with the mafia, bloods, cripz etc...
+i2) Make sure to use your class for raiding/robbing, you're a thief, please do not sit in a base all day money printing. Other people might want to be a thief to raid/rob.
+
+j) Hobo King: 
+Basically the same as hobo, except you're better. But you're really not. 
+Raid [ ] Mug [ ] Print [ ] Base [ ]
+
+k) Mayor's Bodyguard: Protects the mayor at all costs. 
+Raid [ ] Mug [ ] Print [ ] Base [ ]
+k1) You are not a police officer, you deal with direct threats to the Mayor. 
+
+l) Hitman: 
+Same as assassin, except you don't have to be fancy premium to use it. 
+Raid [X] Mug [ ] Print [X] Base [X]
+l1) Can only assist in raids if their target is inside. (This is the only time this class can raid). 
+l2) Can only base on your own, do not base with anybody else. 
+l3) Do not abuse your job by getting people to place a hit on someone over and over. If caught you will be warned. If caught again, you will be banned from this job.
+
+m) Mafia: 
+You're the mafia. Get Tony and Louie to go break someone's kneecaps. You also follow the orders of the mafia boss. 
+Raid [X] Mug [X] Print [X] Base [X]
+m1) You can only base with other mafia members and your boss. 
+
+n) Mafia Boss: 
+Give orders to your mafia underlings. Give them bandages for their boo-boos. 
+Raid [X] Mug [X] Print [X] Base [X]
+n1) You can only base with your mafia members, nobody else. 
+
+o) Doctor: You heal people. You sell armor and health to people and heal people. That's pretty neat. 
+Raid [ ] Mug [ ] Print [ ] Base [X]
+o1) If you have a base it must double as a shop, you can't money print. 
+
+p) Blood leader:
+You are the leader of the bloods gang, pimp hoes and kill cripz.
+Raid [X] Mug [X] Print [X] Base [X]
+p1) You can only base with your blood members, no other class.
+
+q) Bloods Gang Member
+You are a member of the bloods gang, get money and kill cripz.
+Raid [X] Mug [X] Print [X] Base [X]
+q1) You can only base with other bloods members and your leader, nobody else. 
+
+r) Cripz leader:
+You are the leader of the cripz gang, bang bitches and kill bloods. 
+Raid [X] Mug [X] Print [X] Base [X]
+r1) You can only base with your Cripz members, nobody else.
+
+s) Cripz Gang Member:
+You are a member of the Cripz gang, kill bloods and eat chicken. 
+Raid [X] Mug [X] Print [X] Base [X]
+s1) You can only base with other cripz members and your leader, no other class.
+
+t) Banker:
+You're the banker, you do banker stuff. Because you're a banker, you're inevitably jewish. You got your degree in economics and now you're surrounded with money. 
+Raid [ ] Mug [ ] Print [X] Base [ ]
+t1) You are allowed to have money printers inside of the bank. Do not have a seperate base. 
+t2) You can use your banker key to open the fading doors inside of the bank. If you ever use this outside of the bank, you will be banned from the banker job, and possibly punished further. THIS is your warning. 
+t3) Just because this class is allowed printers, it does NOT mean they are legal.
+t4) You can only own a pistol, nothing higher.
+
+u) Bank Guard:
+You are a guard for the bank. You protect the banker and the bank itself from raiders. 
+Raid [ ] Mug [ ] Print [ ] Base [ ]
+u1) You are NOT a police officer, do not get involved with police matters unless it involves you personally. 
+u2) You can't have printers in the bank, the banker can however. 
+
+v) Bank Robber: 
+You are a bank robber, rob the bank and steal the money in the vault, get that dolla dolla. 
+Raid [X] Mug [ ] Print [X] Base [X]
+v1) You can only raid the bank, nothing else. 
+v2) You are allowed a base with some printers in it, however you can only base with other bank robbers. 
+
+w) House Pet:
+You ever heard of a prison #%#%#? Yah that's you basically. You go to bases and people and plead for them to let you clean and %$*%. 
+Raid [ ] Mug [ ] Print [ ] Base [ ]
+w1) You can't own a weapon as this class. 
+
+x) Hacker:
+People pay you to hack keypads for them, you also sell keypad crackers and can make a keypad cracker shop if you want.
+Raid [X] Mug [ ] Print [X] Base [X]
+x1) You can only base on your own! And your base must double as a keypad cracker shop!
+x2) You can only raid if somebody is paying you to crack the keypads! Do not kill anybody inside you base you're raiding, your job is the crack the keypads, nothing else!
+
+13: Staff/VIP rules
+a) If you try to use commands against somebody higher rank than you, you may be punished. If you have a problem with a higher rank, tell a superadmin, Blake, Randy or Harry. 
+b) A VIP may only use the vote commands if there is no staff online. Also, using a vote command against a staff member will result in punishment. 
+c) VIPs will still be treated as players when it comes to rule breaking, you are not special in terms of the rules. 
+d) Staff must not noclip if they are not Staff On Duty. If you must, make sure to do it under the map, where players won't see you.
+e) Staff MUST ungod/uncloak/set their hp back to 100 if they change out from Staff On Duty. If you fail to do this you may be punished. 
+f) If there is a Staff On Duty, please let them answer admin calls. If the Staff On Duty needs help, and you need to, then you may answer them. However please try to switch to Staff On Duty to help out. 
+g) Try not to let person feelings dictate your actions. (e.g. If you are rdmed, and the guy has no previous offences, treat him like you would if he rdmed anybody else and warn him).
+The rest is common sense. You represent the server, carry yourself as such.
+
+A word about words:
+There's a difference between joking around and actually disrespecting. Remember, this is an M-rated game. People swearing and saying "bad words" are part of the online experience. If you don't like this, don't play an M-rated game.
+
+What's illegal to do in Zenith RP? (Perm laws)
+
+-Money printers.
+-Drugs (weed can be made legal by the Mayor)
+-Murder (A hitman cannot legally murder somebody, be stealthy!)
